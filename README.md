@@ -1,3 +1,3 @@
-# angryBirdsStage2.5
-Angry Birds stage 2.5 with Class Inheritance and Images
-I'm learning Git bash today and I'm changing this readme file PULKIT
+SHAKING BRIDGE AND BASS BALLS 
+IT IS A GAME IN WHICH THE BALLS DANCE ON THE MUSIC OF PUBG 
+BUT I DON'T HOW TO ADD SOUND SO WHEN I WILL LEARN I WILL SEND UPDATE TO IT 
